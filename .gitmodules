@@ -1,0 +1,4 @@
+[submodule "public"]
+	path = public
+	url = https://github.com/mariasaavedra/mariasaavedra.github.io
+	branch = master
