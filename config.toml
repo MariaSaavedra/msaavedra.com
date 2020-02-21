@@ -2,3 +2,7 @@ baseURL = "http://example.org/"
 languageCode = "en-us"
 title = "Maria Saavedra"
 theme = "Tale"
+
+[params]
+  AuthorName = "Maria Saavedra"
+

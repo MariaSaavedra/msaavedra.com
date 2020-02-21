@@ -11,7 +11,7 @@ features = ["pagination"]
 min_version = "0.50"
 
 [author]
-  name = "Emiel Hollander"
+  name = "Maria Saavedra"
   homepage = "https://www.emielhollander.nl"
 
 # If porting an existing theme
