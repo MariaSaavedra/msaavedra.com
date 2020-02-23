@@ -6,3 +6,27 @@
 @import 'tale/layout';
 @import 'tale/pagination';
 @import 'tale/catalogue';
+
+$brand-primary: #651fff;
+
+// overrides
+.author {
+    font-size: 4.5rem;
+    line-height: 3.5rem;
+    margin: 1.5rem 0;
+    letter-spacing: -3px
+}
+.introduction {
+    font-size: 1.5rem;
+    line-height: 2rem;
+    margin: 1.5rem 0;
+    font-weight: 300;
+}
+.social-links {
+    font-size: 1em;  
+    font-weight: 600;
+    margin: 0;
+    a {
+        color: $brand-primary;
+    }
+}
