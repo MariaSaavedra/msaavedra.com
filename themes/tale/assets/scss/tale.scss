@@ -7,7 +7,6 @@
 @import 'tale/pagination';
 @import 'tale/catalogue';
 
-$brand-primary: #651fff;
 
 // overrides
 .author {
@@ -30,3 +29,45 @@ $brand-primary: #651fff;
         color: $brand-primary;
     }
 }
+.newsletter {
+    max-width: 800px;
+    margin: 0 auto;
+    margin-top: 4rem;
+    font-family: $font-primary;
+    text-align: center;
+    #mc_embed_signup input.email {
+        background: #f3f3f3;
+        border: 0;
+        padding: 1rem;
+        font-size: 1rem;
+        height: auto;
+        font-family: $font-primary;
+        border-radius: 30px;
+        border-top-right-radius: 0;
+        border-bottom-right-radius: 0;
+    }
+    #mc_embed_signup {
+        background: transparent;
+        &_scroll{
+            text-align: center;   
+        }
+        .button {
+            background: #8E2DE2;
+            background: -webkit-linear-gradient(to right, #4A00E0, #651fff);
+            background: linear-gradient(to right, #4A00E0, #651fff);
+            vertical-align: baseline;
+            padding: .7rem;
+            padding-left: 8px;
+            height: auto;
+            min-width: 80px;
+            border-radius: 30px;
+            position: relative;
+            border-top-left-radius: 0;
+            border-bottom-left-radius: 0;
+            font-family: $font-primary;
+        }
+    }
+}
+
+
+
