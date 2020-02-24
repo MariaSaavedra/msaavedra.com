@@ -7,6 +7,7 @@
 
 html,
 body {
+  font-family: "Karla", Helvetica, Arial, sans-serif;
   color: #555;
   background-color: #fff;
   margin: 0;
@@ -14,7 +15,7 @@ body {
 
 html {
   font-family: "Karla", Helvetica, Arial, sans-serif;
-  font-size: 14px;
+  font-size: 16px;
   overflow-y: scroll; }
   @media (min-width: 600px) {
     html {
