@@ -1,4 +1,4 @@
-@import url("https://fonts.googleapis.com/css?family=Karla:300,400,500,900&display=swap");
+@import url("https://fonts.googleapis.com/css?family=Karla:400,700&display=swap");
 * {
   -webkit-box-sizing: border-box;
   -moz-box-sizing: border-box;
@@ -7,14 +7,14 @@
 
 html,
 body {
-  font-family: "Karla", Helvetica, Arial, sans-serif;
+  font-family: "Karla", Helvetica, sans-serif;
   color: #555;
   background-color: #fff;
   margin: 0;
   padding: 0; }
 
 html {
-  font-family: "Karla", Helvetica, Arial, sans-serif;
+  font-family: "Karla", Helvetica, sans-serif;
   font-size: 16px;
   overflow-y: scroll; }
   @media (min-width: 600px) {
@@ -30,7 +30,7 @@ h4,
 h5,
 h6 {
   color: #353535;
-  font-family: "Karla", Helvetica, Arial, sans-serif;
+  font-family: "Karla", Helvetica, sans-serif;
   line-height: normal; }
 
 a {
@@ -97,14 +97,14 @@ pre code {
   padding: 3rem 0; }
   .post-info {
     color: #aaa;
-    font-family: "Karla", Helvetica, Arial, sans-serif;
+    font-family: "Karla", Helvetica, sans-serif;
     letter-spacing: 0.5px;
     text-align: center; }
     .post-info span {
       font-style: italic; }
   .post-title {
     color: #353535;
-    font-family: "Karla", Helvetica, Arial, sans-serif;
+    font-family: "Karla", Helvetica, sans-serif;
     font-size: 4rem;
     margin: 1rem 0;
     text-align: center; }
@@ -126,7 +126,7 @@ pre code {
   .post img + em {
     color: #aaa;
     display: block;
-    font-family: "Karla", Helvetica, Arial, sans-serif;
+    font-family: "Karla", Helvetica, sans-serif;
     font-size: 0.9rem;
     font-style: normal;
     text-align: center; }
@@ -439,7 +439,7 @@ footer,
       opacity: 1; }
   .nav a {
     color: #555;
-    font-family: "Karla", Helvetica, Arial, sans-serif; }
+    font-family: "Karla", Helvetica, sans-serif; }
 
 @media (min-width: 600px) {
   .nav-container {
@@ -450,7 +450,7 @@ footer,
     right: 0; } }
 
 footer {
-  font-family: "Karla", Helvetica, Arial, sans-serif;
+  font-family: "Karla", Helvetica, sans-serif;
   padding: 2rem 0;
   text-align: center; }
   footer span {
@@ -459,7 +459,7 @@ footer {
 
 .pagination {
   border-top: 0.5px solid #e5e5e5;
-  font-family: "Karla", Helvetica, Arial, sans-serif;
+  font-family: "Karla", Helvetica, sans-serif;
   padding-top: 2rem;
   position: relative;
   text-align: center; }
@@ -471,7 +471,7 @@ footer {
     -moz-transition: all 0.3s ease-out;
     transition: all 0.3s ease-out;
     color: #555;
-    font-family: "Karla", Helvetica, Arial, sans-serif;
+    font-family: "Karla", Helvetica, sans-serif;
     font-size: 1.1rem;
     opacity: .6; }
     .pagination .top:hover {
@@ -502,13 +502,13 @@ footer {
 
 .catalogue-time {
   color: #aaa;
-  font-family: "Karla", Helvetica, Arial, sans-serif;
+  font-family: "Karla", Helvetica, sans-serif;
   letter-spacing: .5px; }
 
 .catalogue-title {
   color: #353535;
   display: block;
-  font-family: "Karla", Helvetica, Arial, sans-serif;
+  font-family: "Karla", Helvetica, sans-serif;
   font-size: 2rem;
   font-weight: 700;
   margin: .5rem 0; }
@@ -531,11 +531,11 @@ footer {
   font-size: 1.5rem;
   line-height: 2rem;
   margin: 1.5rem 0;
-  font-weight: 300; }
+  font-weight: 400; }
 
 .social-links {
   font-size: 1em;
-  font-weight: 600;
+  font-weight: 700;
   margin: 0; }
   .social-links a {
     color: #651fff; }
@@ -544,7 +544,7 @@ footer {
   max-width: 800px;
   margin: 0 auto;
   margin-top: 4rem;
-  font-family: "Karla", Helvetica, Arial, sans-serif;
+  font-family: "Karla", Helvetica, sans-serif;
   text-align: center; }
   .newsletter #mc_embed_signup input.email {
     background: #f3f3f3;
@@ -552,7 +552,7 @@ footer {
     padding: 1rem;
     font-size: 1rem;
     height: auto;
-    font-family: "Karla", Helvetica, Arial, sans-serif;
+    font-family: "Karla", Helvetica, sans-serif;
     border-radius: 30px;
     border-top-right-radius: 0;
     border-bottom-right-radius: 0; }
@@ -573,7 +573,7 @@ footer {
       position: relative;
       border-top-left-radius: 0;
       border-bottom-left-radius: 0;
-      font-family: "Karla", Helvetica, Arial, sans-serif; }
+      font-family: "Karla", Helvetica, sans-serif; }
 
 @media (max-width: 450px) {
   .newsletter #mc_embed_signup .button {
